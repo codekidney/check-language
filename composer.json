@@ -1,0 +1,13 @@
+{
+    "name": "kn/check-language",
+    "description": "Detect language",
+    "authors": [
+        {
+            "name": "Kamil Nowak",
+            "email": "info@kamilnowak.com"
+        }
+    ],
+    "require": {
+        "rubix/ml": "^2.4"
+    }
+}
